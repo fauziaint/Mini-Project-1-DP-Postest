@@ -28,7 +28,7 @@ Penjelasan
    
 ![image](https://github.com/user-attachments/assets/94818b6c-bb7f-4832-9537-7ccb2cd5915a)
 
-7. Baris (23-26): Setelah transaksi selesai, user diminta untuk memilih apakah ingin keluar dari sistem atau melanjutkan dengan menjawab "y" atau "n". Jika user memilih "y", program akan menampilkan teks terima kasih dan mengakhiri loop, sehingga program selesai dijalankan.
+7. Baris (23-26): Setelah transaksi selesai, user diminta untuk memilih apakah ingin keluar dari sistem atau melanjutkan dengan menjawab "y" atau "x". Jika user memilih "y", program akan menampilkan teks terima kasih dan mengakhiri loop, sehingga program selesai dijalankan.
    
 ![image](https://github.com/user-attachments/assets/791f18d0-e253-4fb0-9982-7142b84d26b3)
 
