@@ -1,15 +1,30 @@
 # Mini-Project-1-DP-Postest
 Nama: Fauzia Inanta Aurelia NIM: 2409116044 Kelas: B Program Studi: Sistem Informasi
 
-Flowchart
+# Flowchart
 
 ![Fauzia Inanta Aurelia drawio](https://github.com/user-attachments/assets/f6fc64c9-8bb5-4af7-bf70-fc4920ebb626)
 
-Output Awal hingga Akhir
+# Tampilan Output Awal hingga Akhir
 
 ![2024-09-30 (2)](https://github.com/user-attachments/assets/d88f4830-c8e2-4ff4-b8b5-de9f742b3d5c)
 
-Penjelasan 
+# Penjelasan Tahapan Output
+1. User Melakukan login dengan menginput Nama, NIM, Program Studi
+   
+![2024-09-30 (3)](https://github.com/user-attachments/assets/d311beb3-a813-493a-858e-6c14add689e0)
+
+3. Output Pembelian Barang jika harga barang < Rp 250.000, maka akan menampilkan harga awal barang. Dan apabila jika user memilih "x" program akan mengulang mengisi input jumlah barang dan seterusnya.
+   
+![image](https://github.com/user-attachments/assets/ecdab03b-11da-4a1b-9f98-d778dfe93d4c)
+
+
+5. Output Pembelian Barang jika harga barang > Rp 250.000. Dan Jika user memilih "y" program akan menampilkan teks terima kasih dan berakhir.
+   
+![2024-09-30 (5)](https://github.com/user-attachments/assets/86330f38-c666-4ed5-b47d-32ec11bb04ce)
+
+
+# Penjelasan Kode Program
 1. Baris (1-5): Untuk memunculkan judul dan Login yang dimasukkan oleh user
 ![image](https://github.com/user-attachments/assets/80fa8211-3af2-4a7c-ab47-9b064cf6799b)
 
@@ -28,7 +43,7 @@ Penjelasan
    
 ![image](https://github.com/user-attachments/assets/94818b6c-bb7f-4832-9537-7ccb2cd5915a)
 
-7. Baris (23-26): Setelah transaksi selesai, user diminta untuk memilih apakah ingin keluar dari sistem atau melanjutkan dengan menjawab "y" atau "x". Jika user memilih "y", program akan menampilkan teks terima kasih dan mengakhiri loop, sehingga program selesai dijalankan.
+7. Baris (23-26): Setelah transaksi selesai, user diminta untuk memilih apakah ingin keluar dari sistem atau melanjutkan dengan menjawab "y" atau "x". Jika user memilih "y" program akan menampilkan teks terima kasih lalu berakhir, tetapi jika user memilih "x" program akan mengulang mengisi input jumlah barang dan seterusnya.
    
 ![image](https://github.com/user-attachments/assets/791f18d0-e253-4fb0-9982-7142b84d26b3)
 
